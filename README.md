@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Contact Me
+
+To reach me, please contact me on LinkedIn or email me
+https://www.linkedin.com/in/rohit-tiwari01/
+rohittiwari652001@gmail.com
