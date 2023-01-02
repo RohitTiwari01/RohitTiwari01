@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science projects and certifications.**
 
-- 🌱 I’m currently learning **python, EDA, Regression and Classification**
+- 🌱 I’m currently learning **python, EDA, Machine Learning**
 
 - 👯 I’m looking to collaborate on **any of the data science projects and open to other projects purely based on Statistics**
 
